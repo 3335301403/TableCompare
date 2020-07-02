@@ -23,6 +23,7 @@ public class DataCompareApp {
 	public static void main(String[] args) throws Exception {
 		// TODO Auto-generated method stub
 		//第二部 改毫不相干的内容
+		//第三步 还是改不冲突内容
 		initParam();
 		ConnectDB targetDataBase = new ConnectDB();
 		targetDataBase.local_url = url1;
